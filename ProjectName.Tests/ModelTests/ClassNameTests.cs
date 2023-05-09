@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using ProjectName.Models;
 using System;
 
 namespace ProjectName.Tests
