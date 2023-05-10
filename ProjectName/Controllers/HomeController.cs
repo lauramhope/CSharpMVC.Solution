@@ -1,7 +1,7 @@
 using ProjectName.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ClassName.Controllers
+namespace ProjectName.Controllers
 {
   public class HomeController : Controller
   {
